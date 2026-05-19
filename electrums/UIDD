@@ -1,0 +1,62 @@
+[
+            {
+                "url": "elx1.uidd.org:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@uidd.org"
+                    }
+                    
+                ]
+            },
+            {
+                "url": "elx2.uidd.org:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "support@uidd.org"
+                    }
+                    
+                ]
+            },
+            {
+                "url": "elx1.uidd.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@uidd.org"
+                    }
+                    
+                ]
+            },
+            {
+                "url": "elx2.uidd.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@uidd.org"
+                    }
+                    
+                ]
+            },
+            {
+                "url": "elx1.uidd.org:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "support@uidd.org"
+                    }
+                    
+                ]
+            },
+            {
+                "url": "elx2.uidd.org:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "support@uidd.org"
+                    }
+                    
+                ]
+            }
+        ]
