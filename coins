@@ -17349,6 +17349,34 @@
     }
   },
   {
+    "coin": "UIDD",
+    "name": "uidd",
+    "fname": "Uidd",
+    "sign_message_prefix": "Uidd Signed Message:\n",
+    "rpcport": 7861,
+    "pubtype": 50,
+    "p2shtype": 20,
+    "wiftype": 128,
+    "decimals": 6,
+    "txfee": 400000,
+    "dust": 400000,
+    "mature_confirmations": 2000,
+    "segwit": true,
+    "bech32_hrp": "uc",
+    "mm2": 1,
+    "required_confirmations": 6,
+    "avg_blocktime": 32,
+    "protocol": {
+      "type": "UTXO",
+      "chain_variant": "UIDD"
+    },
+    "derivation_path": "m/44'/786'",
+    "links": {
+      "github": "https://github.com/UIDD/UIDD",
+      "homepage": "https://www.uidd.org"
+    }
+  },
+  {
     "coin": "CAS",
     "name": "cascoin",
     "fname": "Cascoin",

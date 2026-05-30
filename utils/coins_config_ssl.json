@@ -45159,6 +45159,69 @@
         ],
         "explorer_block_url": "block/"
     },
+    "UIDD": {
+        "coin": "UIDD",
+        "type": "UTXO",
+        "name": "Uidd",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://scan.uidd.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Uidd Signed Message:\n",
+        "fname": "Uidd",
+        "rpcport": 7861,
+        "pubtype": 50,
+        "p2shtype": 20,
+        "wiftype": 128,
+        "decimals": 6,
+        "txfee": 400000,
+        "dust": 400000,
+        "mature_confirmations": 2000,
+        "segwit": true,
+        "bech32_hrp": "uc",
+        "mm2": 1,
+        "required_confirmations": 6,
+        "avg_blocktime": 32,
+        "protocol": {
+            "type": "UTXO",
+            "chain_variant": "UIDD"
+        },
+        "derivation_path": "m/44'/786'",
+        "links": {
+            "github": "https://github.com/UIDD/UIDD",
+            "homepage": "https://www.uidd.org"
+        },
+        "electrum": [
+            {
+                "url": "elx1.uidd.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@uidd.org"
+                    }
+                    
+                ]
+            },
+            {
+                "url": "elx2.uidd.org:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "support@uidd.org"
+                    }
+                    
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "CAS": {
         "coin": "CAS",
         "type": "UTXO",
