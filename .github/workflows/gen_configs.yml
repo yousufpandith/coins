@@ -76,5 +76,5 @@ jobs:
             - Icon spritemap updated
           labels: |
             config-update
-          reviewers: cipig
+          assignees: yousufpandith
           draft: false
